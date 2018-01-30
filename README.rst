@@ -13,4 +13,6 @@ About
 This repo
 ---------
 
-This repository represents a DigitalLabs utility. It has a linked heroku account. Details can be found in the [Accounts](https://github.com/CMDT/DigitalLabsOperations/wiki/Accounts#utilties)
+This repository represents a DigitalLabs utility. It has a linked heroku account. Details can be found in the Accounts:  
+`Accounts <https://github.com/CMDT/DigitalLabsOperations/wiki/Accounts#utilties/>`_
+
